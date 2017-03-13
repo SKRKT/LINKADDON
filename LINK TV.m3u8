@@ -12,8 +12,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Azteca Noticias
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",CANAL
-LINK
+#EXTINF:-1 tvg-logo="" group-title="",Multimedios Monterrey
+http://adryan.jl.serv.net.mx/adryan-tp.php?c=167&p=3&k=adryanIist&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",CANAL
 LINK
