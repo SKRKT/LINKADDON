@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",CANAL
-LINK
+#EXTINF:-1 tvg-logo="" group-title="",HBO Family
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0eca0c2784c1339f7ee47db4906f2181c23efabe/3181.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Nuevo_logotipo_de_Azteca_13.gif" group-title="TV LOCAL",Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
