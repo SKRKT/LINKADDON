@@ -1,13 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/antena-3.gif" group-title="ENTRETENIMIENTO",Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
 
-#EXTINF:-1,Azteca Trece
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Nuevo_logotipo_de_Azteca_13.gif" group-title="TV LOCAL",Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
-#EXTINF:-1,Canal de las Estrellas
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/25/XEWTV2-2012.png/revision/latest?cb=20120304065253" group-title="TV LOCAL",Canal de las Estrellas
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
-#EXTINF:-1,Azteca Noticias
+#EXTINF:-1 tvg-logo="" group-title="",Azteca Noticias
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL
+LINK
+
