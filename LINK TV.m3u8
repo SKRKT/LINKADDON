@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",Univision
-rtmp://podi.hopper.pw:443/live/live_univision_hd30
+#EXTINF:-1 tvg-logo="" group-title="",Milenio TV
+http://live.tvplayerlatino.com/usuarios/src4/Milenio/web/playlist.m3u8?ZmZ4ZmN5AQp5Z18kAQt4ZmD3ZwL4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Nuevo_logotipo_de_Azteca_13.gif" group-title="TV LOCAL",Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
