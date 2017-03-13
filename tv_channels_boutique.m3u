@@ -1,0 +1,2163 @@
+#EXTM3U
+#EXTINF:-1,*******AR-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/12.ts
+#EXTINF:-1,*****BEIN SPORTS*****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2430.ts
+#EXTINF:-1,[AR] BEIN-SPORTS-NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/42.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/26.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/27.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/28.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/29.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/30.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/31.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/32.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/33.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/34.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/35.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-11HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/38.ts
+#EXTINF:-1,[AR]  BEIN-SPORTS-12HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/37.ts
+#EXTINF:-1,[AR] Bein Sport 1 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2506.ts
+#EXTINF:-1,[AR] Bein Sport 2 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2507.ts
+#EXTINF:-1,[AR] Bein Sport 3 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2508.ts
+#EXTINF:-1,[AR] Bein Sport 4 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2509.ts
+#EXTINF:-1,[AR] Bein Sport 5 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2510.ts
+#EXTINF:-1,[AR] Bein Sport 6 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2511.ts
+#EXTINF:-1,[AR] Bein Sport 7 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2512.ts
+#EXTINF:-1,[AR] Bein Sport 8 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2513.ts
+#EXTINF:-1,[AR] Bein Sport 9 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2514.ts
+#EXTINF:-1,[AR] Bein Sport 10 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2515.ts
+#EXTINF:-1,[AR] BEINSPORTS-MAX-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/470.ts
+#EXTINF:-1,[AR] BEINSPORTS-MAX-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/471.ts
+#EXTINF:-1,[AR] BEINSPORTS_1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2450.ts
+#EXTINF:-1,[AR] BEINSPORTS_2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2451.ts
+#EXTINF:-1,[AR] BEINSPORTS_3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2452.ts
+#EXTINF:-1,[AR] BEINSPORTS_4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2453.ts
+#EXTINF:-1,[AR] BEINSPORTS_5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2455.ts
+#EXTINF:-1,[AR] BEINSPORTS_7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2454.ts
+#EXTINF:-1,[AR] BEINSPORTS_6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2456.ts
+#EXTINF:-1,[AR] BEINSPORTS_8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2457.ts
+#EXTINF:-1,[AR] BEINSPORTS_9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2458.ts
+#EXTINF:-1,[AR] BEINSPORTS_10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2459.ts
+#EXTINF:-1,[AR]  beIN MOVIES 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1560.ts
+#EXTINF:-1,[AR]  beIN MOVIES 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1561.ts
+#EXTINF:-1,[AR]  BeIN Movies 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1562.ts
+#EXTINF:-1,[AR]  Bein Movies 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1563.ts
+#EXTINF:-1,***** TUNISIE *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2518.ts
+#EXTINF:-1,[AR] Alwataneya-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/264.ts
+#EXTINF:-1,[AR] Alwataneya-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/265.ts
+#EXTINF:-1,[AR] Alhiwar-ettounssi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/267.ts
+#EXTINF:-1,[AR] AlTasseaa-Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/272.ts
+#EXTINF:-1,[AR] Nessma-Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/271.ts
+#EXTINF:-1,[AR] Hannibal-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/268.ts
+#EXTINF:-1,[AR] Tounessna-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/269.ts
+#EXTINF:-1,[AR] First-Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/270.ts
+#EXTINF:-1,[AR] Alzaytouna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/266.ts
+#EXTINF:-1,[AR]  M Tunisia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1554.ts
+#EXTINF:-1,***** ALGERIE *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2519.ts
+#EXTINF:-1,[AR] DZAIR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/509.ts
+#EXTINF:-1,[AR] Canal_Algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/499.ts
+#EXTINF:-1,[AR] Ennahar algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2488.ts
+#EXTINF:-1,[AR] EchoroukTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/501.ts
+#EXTINF:-1,[AR] Echorouk Bena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/502.ts
+#EXTINF:-1,[AR] SAMIRA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/507.ts
+#EXTINF:-1,[AR] DZAIR NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/510.ts
+#EXTINF:-1,[AR] ALGERIE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/505.ts
+#EXTINF:-1,[AR] KBC ALGERIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/500.ts
+#EXTINF:-1,[AR] El Heddaf TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/503.ts
+#EXTINF:-1,[AR] El Bilad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/506.ts
+#EXTINF:-1,[AR] ECHOUROUK NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/508.ts
+#EXTINF:-1,[AR] BERBERE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2427.ts
+#EXTINF:-1,[AR] BERBERE-JEUNESSE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2429.ts
+#EXTINF:-1,[AR] BERBERE MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2428.ts
+#EXTINF:-1,***** MAROC *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2520.ts
+#EXTINF:-1,[AR] AL_AOULA_MAROC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2133.ts
+#EXTINF:-1,[AR] MEDI1_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2136.ts
+#EXTINF:-1,[AR] 2M_MAROC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2135.ts
+#EXTINF:-1,[AR] AL_MAGHRIBIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2138.ts
+#EXTINF:-1,[AR] Tamazight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2140.ts
+#EXTINF:-1,[AR]  ARRIADIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/752.ts
+#EXTINF:-1,[AR] ASSADISSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2139.ts
+#EXTINF:-1,[AR] ARRABIAA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2137.ts
+#EXTINF:-1,[AR] MBC-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/360.ts
+#EXTINF:-1,[AR] MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/711.ts
+#EXTINF:-1,[AR] MBC-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/359.ts
+#EXTINF:-1,[AR] MBC4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1863.ts
+#EXTINF:-1,[AR] MBC ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/713.ts
+#EXTINF:-1,[AR] MBC MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/714.ts
+#EXTINF:-1,[AR]  MBC Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1545.ts
+#EXTINF:-1,[AR] MBC-Bollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1867.ts
+#EXTINF:-1,[AR]  MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/734.ts
+#EXTINF:-1,[AR] MBC MASR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/712.ts
+#EXTINF:-1,[AR] MBC-PROSPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1864.ts
+#EXTINF:-1,[AR] MBC-PROSPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1865.ts
+#EXTINF:-1,[AR] MBC-PROSPORT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1866.ts
+#EXTINF:-1,[AR] ABU DHABI SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2525.ts
+#EXTINF:-1,[AR] ABU DHABI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2524.ts
+#EXTINF:-1,[AR] ABU DHABI SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2523.ts
+#EXTINF:-1,[AR] ABU DHABI SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2522.ts
+#EXTINF:-1,[AR] ABU DHABI SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2521.ts
+#EXTINF:-1,[AR]  ALKASS 1 SPORTS (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1765.ts
+#EXTINF:-1,[AR]  ALKASS 2 SPORTS (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1764.ts
+#EXTINF:-1,[AR]  ALKASS 4 SPORTS (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1763.ts
+#EXTINF:-1,[AR]  ALKASS 5 SPORTS (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1762.ts
+#EXTINF:-1,[AR] AlArabiya-HADATH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/3.ts
+#EXTINF:-1,[AR] AlJazeera-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1.ts
+#EXTINF:-1,[AR] AlArabiya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2.ts
+#EXTINF:-1,[AR]  Alnas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/956.ts
+#EXTINF:-1,[AR]  Oman Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1524.ts
+#EXTINF:-1,[AR]  Oman tv 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1525.ts
+#EXTINF:-1,[AR] Oman tv 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1526.ts
+#EXTINF:-1,[AR]  ANN News (Qatar)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1501.ts
+#EXTINF:-1,[AR]  ANN NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1502.ts
+#EXTINF:-1,[AR]  Aloula (Syria)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1503.ts
+#EXTINF:-1,[AR]  Almasirah TV (Yemen)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1504.ts
+#EXTINF:-1,[AR]  Almanar TV (Lebanon)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1505.ts
+#EXTINF:-1,[AR]   ALHURRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1507.ts
+#EXTINF:-1,[AR]  ALHADATH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1508.ts
+#EXTINF:-1,[AR]  Al Sharqiya News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1513.ts
+#EXTINF:-1,[AR]  AL SHARJAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1514.ts
+#EXTINF:-1,[AR]  Al Nabaa (Libya)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1515.ts
+#EXTINF:-1,[AR]  Al Kout (Kuwait)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1516.ts
+#EXTINF:-1,[AR]  Al Jazeera Kids (Qatar)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1517.ts
+#EXTINF:-1,[AR]  Al ikhbaria Syria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1518.ts
+#EXTINF:-1,[AR]  Al Hayat 2 (Egypt)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1519.ts
+#EXTINF:-1,[AR]  Al Hayat (Egypt)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1520.ts
+#EXTINF:-1,[AR]  Al Forat (Iraq)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1521.ts
+#EXTINF:-1,[AR]  Al Eqtisadiyah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1522.ts
+#EXTINF:-1,[AR]  Al Ekhbariya (Saudi Arabia)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1523.ts
+#EXTINF:-1,[AR]  ZEEALWAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1546.ts
+#EXTINF:-1,[AR]  FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1551.ts
+#EXTINF:-1,[AR]  ArabicaTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1549.ts
+#EXTINF:-1,[AR]: Abu Dhabi Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1550.ts
+#EXTINF:-1,[AR]  DubaiTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1547.ts
+#EXTINF:-1,[AR]  DUBAI_ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/762.ts
+#EXTINF:-1,[AR]  DubaiDrama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1548.ts
+#EXTINF:-1,[AR]  Dubai Zaman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1555.ts
+#EXTINF:-1,[AR]  Dubai_Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/761.ts
+#EXTINF:-1,[AR]  Dubai Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1557.ts
+#EXTINF:-1,[AR]  Dubai Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1556.ts
+#EXTINF:-1,[AR]  DubaiSport2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/763.ts
+#EXTINF:-1,[AR]  Dubai Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1558.ts
+#EXTINF:-1,[AR]  Dubai Al Oula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1559.ts
+#EXTINF:-1,[AR]  NOOR DUBAI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1572.ts
+#EXTINF:-1,[AR]  Star_Cinema_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1543.ts
+#EXTINF:-1,[AR]  Star_Cinema_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1544.ts
+#EXTINF:-1,[AR]  ZEE AFLAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/760.ts
+#EXTINF:-1,[AR] ROTANA MASRIYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/718.ts
+#EXTINF:-1,[AR] ROTANA KHALIJIAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/719.ts
+#EXTINF:-1,[AR] ROTANA CLIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/720.ts
+#EXTINF:-1,[AR] ROTANA CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/716.ts
+#EXTINF:-1,[AR] ROTANA CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/715.ts
+#EXTINF:-1,[AR] ROTANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/717.ts
+#EXTINF:-1,[AR]  PANORAMA FOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/743.ts
+#EXTINF:-1,[AR]  PANORAMA FILM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/744.ts
+#EXTINF:-1,[AR]  PANORAMA DRAMA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/745.ts
+#EXTINF:-1,[AR]  PANORAMA DRAMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/746.ts
+#EXTINF:-1,[AR]  PANORAMA COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/747.ts
+#EXTINF:-1,[AR]  Nile Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/735.ts
+#EXTINF:-1,[AR]  Nile News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/736.ts
+#EXTINF:-1,[AR]  Nile Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/737.ts
+#EXTINF:-1,[AR]  Nile Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/738.ts
+#EXTINF:-1,[AR]  Nile Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/739.ts
+#EXTINF:-1,[AR]  Nile Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/741.ts
+#EXTINF:-1,[AR]  Nile Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/742.ts
+#EXTINF:-1,[AR] CBC SOFRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/723.ts
+#EXTINF:-1,[AR] CBC PLUS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/724.ts
+#EXTINF:-1,[AR] CBC EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/726.ts
+#EXTINF:-1,[AR] CBC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/727.ts
+#EXTINF:-1,[AR]  CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/728.ts
+#EXTINF:-1,[AR]  Cartoon Network Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/729.ts
+#EXTINF:-1,[AR]  BARAEM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/730.ts
+#EXTINF:-1,[AR] ART HIKAYAT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/721.ts
+#EXTINF:-1,[AR] ART HIKAYAT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/722.ts
+#EXTINF:-1,[AR]  AL-NAHAR DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/732.ts
+#EXTINF:-1,[AR]  Al-Nahar Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/731.ts
+#EXTINF:-1,[AR]  AL-NAHAR AL YOUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/733.ts
+#EXTINF:-1,[AR]  RT-TODAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/749.ts
+#EXTINF:-1,[AR]  NAT GEO AD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/750.ts
+#EXTINF:-1,[AR]  MELODY.CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/748.ts
+#EXTINF:-1,[AR]  ALJAZEERA DOCUMENTARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/754.ts
+#EXTINF:-1,[AR]  MTV Lebananon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1571.ts
+#EXTINF:-1,[AR]  DW Arabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1577.ts
+#EXTINF:-1,[AR]  BBC Arabia AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1567.ts
+#EXTINF:-1,[AR]  ART Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1570.ts
+#EXTINF:-1,[AR]  ART Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1569.ts
+#EXTINF:-1,[AR]  ART Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1568.ts
+#EXTINF:-1,***** OSN VIP *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2611.ts
+#EXTINF:-1,[AR] OSN_Fight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2575.ts
+#EXTINF:-1,[AR]  OSN-Star-World-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/981.ts
+#EXTINF:-1,[AR]  OSN-Star-Movies-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/982.ts
+#EXTINF:-1,[AR] OSN StarMovies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2576.ts
+#EXTINF:-1,[AR] OSN_Movies_Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2577.ts
+#EXTINF:-1,[AR] OSN ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2578.ts
+#EXTINF:-1,[AR] OSN Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/456.ts
+#EXTINF:-1,[AR] OSN_Movies_ACTION_ 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2579.ts
+#EXTINF:-1,[AR]  OSN-Movies-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/988.ts
+#EXTINF:-1,[AR] OSN_MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2580.ts
+#EXTINF:-1,[AR]  OSN-Movies-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/993.ts
+#EXTINF:-1,[AR] OSN_MOVIES_ 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2581.ts
+#EXTINF:-1,[AR] OSN_MOVIES_DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2582.ts
+#EXTINF:-1,[AR]  OSN-Movies-Drama-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/990.ts
+#EXTINF:-1,[AR]  OSN-Movies-Premiere-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/986.ts
+#EXTINF:-1,[AR]  OSN MOVIES PREMIERE (OSN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1745.ts
+#EXTINF:-1,[AR]   OSN MOVIES COMEDY (OSN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1749.ts
+#EXTINF:-1,[AR] OSN Yahala HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/450.ts
+#EXTINF:-1,[AR] OSN Yahala Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/451.ts
+#EXTINF:-1,[AR]  OSN MOVIES FESTIVAL (OSN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1748.ts
+#EXTINF:-1,[AR] OSN_ALSAFWA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2583.ts
+#EXTINF:-1,[AR] OSN_AL_Youm_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2584.ts
+#EXTINF:-1,[AR] OSN DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2585.ts
+#EXTINF:-1,[AR] OSN SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2586.ts
+#EXTINF:-1,[AR] OSN SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2587.ts
+#EXTINF:-1,[AR] OSN FIRST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2588.ts
+#EXTINF:-1,[AR]  OSN FIRST COMEDY (OSN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1751.ts
+#EXTINF:-1,[AR]  OSN First COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/995.ts
+#EXTINF:-1,[AR] OSN ON DEMAND 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1898.ts
+#EXTINF:-1,[AR] OSN ON DEMAND 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1897.ts
+#EXTINF:-1,[AR] OSN ON DEMAND EXTRA 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1896.ts
+#EXTINF:-1,[AR] OSN ON DEMAND EXTRA-2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1895.ts
+#EXTINF:-1,[AR] OSN_ON_DEMANDE_EXTRA_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2589.ts
+#EXTINF:-1,[AR] OSN_ON_DEMANDE_EXTRA_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2590.ts
+#EXTINF:-1,[AR] OSN_ON_DEMANDE_EXTRA_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2591.ts
+#EXTINF:-1,[AR]  OSN-Cinema-1-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1001.ts
+#EXTINF:-1,[AR]  OSN-Cinema-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1000.ts
+#EXTINF:-1,[AR]  OSN BOX OFFICE 1 (OSN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1755.ts
+#EXTINF:-1,[AR]  OSN BOX OFFICE 2 (OSN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1754.ts
+#EXTINF:-1,[AR]  OSN BOX OFFICE 3 (OSN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1753.ts
+#EXTINF:-1,[AR] OSN  ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2592.ts
+#EXTINF:-1,[AR]  OSN-Discovery-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/999.ts
+#EXTINF:-1,[AR] OSN DISCOVERY SCIENCE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2594.ts
+#EXTINF:-1,[AR] OSN Discovery Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2593.ts
+#EXTINF:-1,[AR] OSN PPV- HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2595.ts
+#EXTINF:-1,[AR] OSN PPV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2596.ts
+#EXTINF:-1,[AR] OSN PPV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2597.ts
+#EXTINF:-1,[AR] OSN PPV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2598.ts
+#EXTINF:-1,[AR] OSN PPV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2599.ts
+#EXTINF:-1,[AR] OSN PPV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2600.ts
+#EXTINF:-1,[AR] OSN PPV 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2601.ts
+#EXTINF:-1,[AR] OSN PPV 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2602.ts
+#EXTINF:-1,[AR] Saudia Quran
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/947.ts
+#EXTINF:-1,[AR]  Mecca_Quran
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/948.ts
+#EXTINF:-1,[AR]  IQRAA_TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/950.ts
+#EXTINF:-1,[AR]  AlmanAR: TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/953.ts
+#EXTINF:-1,[AR]  Al_Majd_Quran
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/951.ts
+#EXTINF:-1,[AR]  SPACETOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/959.ts
+#EXTINF:-1,[AR]  SEMSEM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/958.ts
+#EXTINF:-1,[AR]  Alresalah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/954.ts
+#EXTINF:-1,[AR]  Alrahma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/955.ts
+#EXTINF:-1,*******BE-BELIUM-CHANNELS-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/74.ts
+#EXTINF:-1,[BE] LA-UNE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/73.ts
+#EXTINF:-1,[BE] LA-DEUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/75.ts
+#EXTINF:-1,[BE] LA-TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/76.ts
+#EXTINF:-1,[BE] RTL-TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/78.ts
+#EXTINF:-1,[BE] PLUG-RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/79.ts
+#EXTINF:-1,[BE] CLUB-RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/80.ts
+#EXTINF:-1,[BE] VTM_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2470.ts
+#EXTINF:-1,[BE]2BE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2477.ts
+#EXTINF:-1,[BE]Acht
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2476.ts
+#EXTINF:-1,[BE]Canvas_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2475.ts
+#EXTINF:-1,[BE]EDGE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2474.ts
+#EXTINF:-1,[BE]Een_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2473.ts
+#EXTINF:-1,[BE]JIM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2472.ts
+#EXTINF:-1,[BE]Ketnet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2471.ts
+#EXTINF:-1,[BE]Vtm_Kazoom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2469.ts
+#EXTINF:-1,[BE] TELE-VESDRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/77.ts
+#EXTINF:-1,[BE] VOO_SPORT_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2132.ts
+#EXTINF:-1,*******ES-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1128.ts
+#EXTINF:-1,[ES] Iberalia-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2203.ts
+#EXTINF:-1,[ES] TAQUILLA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1138.ts
+#EXTINF:-1,[ES] TAQUILLA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1137.ts
+#EXTINF:-1,[ES] TAQUILLA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1136.ts
+#EXTINF:-1,[ES] CANAL  LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1130.ts
+#EXTINF:-1,[ES] CANAL  FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1131.ts
+#EXTINF:-1,[ES] CANAL  DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1133.ts
+#EXTINF:-1,[ES] CANAL  ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1134.ts
+#EXTINF:-1,[ES] CANAL  GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1135.ts
+#EXTINF:-1,[ ES ] C  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1208.ts
+#EXTINF:-1,[ES] TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1533.ts
+#EXTINF:-1,[ES] TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1535.ts
+#EXTINF:-1,[ES] SYFY UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1536.ts
+#EXTINF:-1,[ES] REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1537.ts
+#EXTINF:-1,[ES] PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1538.ts
+#EXTINF:-1,[ES] NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1539.ts
+#EXTINF:-1,[ES] LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1540.ts
+#EXTINF:-1,[ES] Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1541.ts
+#EXTINF:-1,[ES] C  ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1585.ts
+#EXTINF:-1,[ES] C  ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1586.ts
+#EXTINF:-1,[ES] C   TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1598.ts
+#EXTINF:-1,[ES] C   SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1584.ts
+#EXTINF:-1,[ES] C   SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1583.ts
+#EXTINF:-1,[ES] C   LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1592.ts
+#EXTINF:-1,[ES] C   LIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1593.ts
+#EXTINF:-1,[ES] C   DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1595.ts
+#EXTINF:-1,[ES] C   DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1596.ts
+#EXTINF:-1,[ES] C   DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1588.ts
+#EXTINF:-1,[ES] C    XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1582.ts
+#EXTINF:-1,[ES] Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2610.ts
+#EXTINF:-1,[ES] Cuatro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2604.ts
+#EXTINF:-1,[ES] Disney junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2605.ts
+#EXTINF:-1,[ES] Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2606.ts
+#EXTINF:-1,[ES] FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2607.ts
+#EXTINF:-1,[ES] Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2608.ts
+#EXTINF:-1,[ES] la sexta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2609.ts
+#EXTINF:-1,[ES] Telecinco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2603.ts
+#EXTINF:-1,[ES] C  COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1587.ts
+#EXTINF:-1,*****GENERAL LISTES FR*****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/40.ts
+#EXTINF:-1,[FR] TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/48.ts
+#EXTINF:-1,[FR] France 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/13.ts
+#EXTINF:-1,[FR] France 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/14.ts
+#EXTINF:-1,[FR] France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/15.ts
+#EXTINF:-1,[FR] France-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/16.ts
+#EXTINF:-1,[FR] W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/50.ts
+#EXTINF:-1,[FR] M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/47.ts
+#EXTINF:-1,[FR] MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1961.ts
+#EXTINF:-1,[FR] FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2106.ts
+#EXTINF:-1,[FR] Bet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2419.ts
+#EXTINF:-1,[FR] TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2108.ts
+#EXTINF:-1,[FR] CANAL+-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/44.ts
+#EXTINF:-1,[FR] CANAL-SPORT-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/51.ts
+#EXTINF:-1,[FR] CANAL-SERIES-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/52.ts
+#EXTINF:-1,[FR] CANAL-FAMILY-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/53.ts
+#EXTINF:-1,[FR] CANAL-DECALE-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/45.ts
+#EXTINF:-1,[FR] CANAL-CINEMA-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/54.ts
+#EXTINF:-1,[FR] Tout Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/361.ts
+#EXTINF:-1,[FR] PIWI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/364.ts
+#EXTINF:-1,[FR] NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/365.ts
+#EXTINF:-1,[FR] Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/362.ts
+#EXTINF:-1,[FR] CINE POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/367.ts
+#EXTINF:-1,[FR] Cine FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/368.ts
+#EXTINF:-1,[FR] CINE CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/369.ts
+#EXTINF:-1,[FR] CanalJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/373.ts
+#EXTINF:-1,[FR] Zouzou TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/443.ts
+#EXTINF:-1,[FR] Ushuaia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/428.ts
+#EXTINF:-1,[FR] TREK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/427.ts
+#EXTINF:-1,[FR] Tiji
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/442.ts
+#EXTINF:-1,[FR] TELETOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/437.ts
+#EXTINF:-1,[FR] RMC DECOUVERTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/426.ts
+#EXTINF:-1,[FR] Planete  C.I HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/420.ts
+#EXTINF:-1,[FR] Planete  AE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/421.ts
+#EXTINF:-1,[FR] PLANETE   hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/419.ts
+#EXTINF:-1,[FR] Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/422.ts
+#EXTINF:-1,[FR] Mangas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/445.ts
+#EXTINF:-1,[FR] Gulli HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/438.ts
+#EXTINF:-1,[FR] DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/432.ts
+#EXTINF:-1,[FR] Disney Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/435.ts
+#EXTINF:-1,[FR] Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/433.ts
+#EXTINF:-1,[FR] Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/424.ts
+#EXTINF:-1,[FR] DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/425.ts
+#EXTINF:-1,[FR] SEASONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2484.ts
+#EXTINF:-1,[FR] CHASSE ET PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/430.ts
+#EXTINF:-1,[FR] Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/440.ts
+#EXTINF:-1,[FR] Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/441.ts
+#EXTINF:-1,[FR] Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/431.ts
+#EXTINF:-1,[FR] BFMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1566.ts
+#EXTINF:-1,[FR] NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/967.ts
+#EXTINF:-1,[FR] GAME ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/968.ts
+#EXTINF:-1,[FR] Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/962.ts
+#EXTINF:-1,[FR] NICKELODEON_JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/966.ts
+#EXTINF:-1,[FR] TCM CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2086.ts
+#EXTINF:-1,[FR] MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2093.ts
+#EXTINF:-1,[FR] MTV BASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2094.ts
+#EXTINF:-1,[FR] WEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2102.ts
+#EXTINF:-1,[FR] TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2080.ts
+#EXTINF:-1,[FR] TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2074.ts
+#EXTINF:-1,[FR] Teva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2079.ts
+#EXTINF:-1,[FR]  RTS UN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2081.ts
+#EXTINF:-1,[FR] RTS Deux HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2082.ts
+#EXTINF:-1,[FR] PARIS PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2078.ts
+#EXTINF:-1,[FR] OCS City
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2085.ts
+#EXTINF:-1,[FR] LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2075.ts
+#EXTINF:-1,[FR] La tele
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2104.ts
+#EXTINF:-1,[FR] L'EQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2089.ts
+#EXTINF:-1,[FR] INFOSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2090.ts
+#EXTINF:-1,[FR] INDIES LIVE MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2096.ts
+#EXTINF:-1,[FR] i Tele
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2076.ts
+#EXTINF:-1,[FR] Foot  24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2105.ts
+#EXTINF:-1,[FR] Equidia Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2100.ts
+#EXTINF:-1,[FR] CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2077.ts
+#EXTINF:-1,[FR] C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2098.ts
+#EXTINF:-1,[FR] BFM BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2101.ts
+#EXTINF:-1,[BE] ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2073.ts
+#EXTINF:-1,[BE] AB 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2084.ts
+#EXTINF:-1,[BE] AB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2083.ts
+#EXTINF:-1,[FR] AB Moteur (LOCAL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2088.ts
+#EXTINF:-1,[FR] VOYAGE TV ..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1978.ts
+#EXTINF:-1,[FR] SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1962.ts
+#EXTINF:-1,[FR] SERIE CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1975.ts
+#EXTINF:-1,[FR] RTL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1965.ts
+#EXTINF:-1,[FR] OCS MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1970.ts
+#EXTINF:-1,[FR] OCS GEANTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1971.ts
+#EXTINF:-1,[FR] OCS CHOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1972.ts
+#EXTINF:-1,[FR] NUMERO 23 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1979.ts
+#EXTINF:-1,[FR] SCIENCES&VIE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2124.ts
+#EXTINF:-1,[FR] NATIONAL_GEO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2122.ts
+#EXTINF:-1,[FR] M6_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2131.ts
+#EXTINF:-1,[FR] KOMBAT_SPORT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2125.ts
+#EXTINF:-1,[FR] GONG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2114.ts
+#EXTINF:-1,[FR] France-24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2141.ts
+#EXTINF:-1,[FR] EUROSPORT_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2127.ts
+#EXTINF:-1,[FR] EUROSPORT_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2126.ts
+#EXTINF:-1,[FR] DISCOVERY_SHOWCASE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2123.ts
+#EXTINF:-1,[FR] CANAL GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2110.ts
+#EXTINF:-1,[FR] BFM LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2119.ts
+#EXTINF:-1,[FR] HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1964.ts
+#EXTINF:-1,[FR] CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1973.ts
+#EXTINF:-1,[FR] COMEDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1977.ts
+#EXTINF:-1,[FR] CINE  PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1966.ts
+#EXTINF:-1,[FR] CINE  FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1967.ts
+#EXTINF:-1,[FR] CINE  FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1968.ts
+#EXTINF:-1,[FR] CINE  EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1969.ts
+#EXTINF:-1,[FR] ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1976.ts
+#EXTINF:-1,[FR] 6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1963.ts
+#EXTINF:-1,[FR] 13RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1974.ts
+#EXTINF:-1,*****SPORTS FR*****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/39.ts
+#EXTINF:-1,[FR] bein-sport-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/17.ts
+#EXTINF:-1,[FR] bein-sport-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/18.ts
+#EXTINF:-1,[FR] bein-sport-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/19.ts
+#EXTINF:-1,[FR] BeIN SPORTS MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2461.ts
+#EXTINF:-1,[FR] BeIN SPORTS MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2462.ts
+#EXTINF:-1,[FR] BeIN SPORTS MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2463.ts
+#EXTINF:-1,[FR] BeIN SPORTS MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2464.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX_8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2615.ts
+#EXTINF:-1,[FR] BeIN SPORTS MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2616.ts
+#EXTINF:-1,[FR] BeIN SPORTS MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2617.ts
+#EXTINF:-1,*******FR-PAY-PER-VIEW*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/60.ts
+#EXTINF:-1,[FR] CANAL-PLAY-1-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/55.ts
+#EXTINF:-1,[FR] CANAL-PLAY-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/56.ts
+#EXTINF:-1,[FR] CANAL-PLAY-3-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/57.ts
+#EXTINF:-1,[FR] CANAL-PLAY-4-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/58.ts
+#EXTINF:-1,[FR] CANAL-PLAY-5-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/59.ts
+#EXTINF:-1,*******FR-A-LA-CARTE*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/72.ts
+#EXTINF:-1,[FR] A-LA-CARTE-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/61.ts
+#EXTINF:-1,[FR] A-LA-CARTE-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/62.ts
+#EXTINF:-1,[FR] A-LA-CARTE-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/63.ts
+#EXTINF:-1,[FR] A-LA-CARTE-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/64.ts
+#EXTINF:-1,[FR] A-LA-CARTE-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/65.ts
+#EXTINF:-1,[FR] A-LA-CARTE-6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/66.ts
+#EXTINF:-1,[FR] A-LA-CARTE-7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/67.ts
+#EXTINF:-1,[FR] A-LA-CARTE-8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/68.ts
+#EXTINF:-1,[FR] A-LA-CARTE-9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/69.ts
+#EXTINF:-1,[FR] Sfr Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1951.ts
+#EXTINF:-1,[FR] Sfr Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1949.ts
+#EXTINF:-1,[FR] Sfr Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1950.ts
+#EXTINF:-1,[IT] Premium Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1868.ts
+#EXTINF:-1,[IT] Premium Stories
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1869.ts
+#EXTINF:-1,[IT] Premium Joi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1870.ts
+#EXTINF:-1,[IT] Premium Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1871.ts
+#EXTINF:-1,[IT] Premium Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1872.ts
+#EXTINF:-1,[IT] Premium Crime  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1873.ts
+#EXTINF:-1,[IT] Premium Crime 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1874.ts
+#EXTINF:-1,[IT] Premium Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1875.ts
+#EXTINF:-1,[IT] Premium Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1878.ts
+#EXTINF:-1,[IT] Premium Cinema 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1877.ts
+#EXTINF:-1,[IT] Premium Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1879.ts
+#EXTINF:-1,[IT] Premium Action 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1876.ts
+#EXTINF:-1,****** PREMIUM-CALCIO ******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2412.ts
+#EXTINF:-1,[IT] PREMIUM  Calcio 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2413.ts
+#EXTINF:-1,[IT] PREMIUM Calcio 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2414.ts
+#EXTINF:-1,[IT] PREMIUM Calcio 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2415.ts
+#EXTINF:-1,[IT] PREMIUM Calcio 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2416.ts
+#EXTINF:-1,[IT] PREMIUM Calcio 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2417.ts
+#EXTINF:-1,[IT] PREMIUM Calcio 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2418.ts
+#EXTINF:-1,[IT] Rai 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/473.ts
+#EXTINF:-1,[IT] Rai 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/474.ts
+#EXTINF:-1,[IT] Rai 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/475.ts
+#EXTINF:-1,[IT] Rai 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/476.ts
+#EXTINF:-1,[IT] Rai 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/477.ts
+#EXTINF:-1,[IT] RSI La2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/483.ts
+#EXTINF:-1,[IT] RSI La1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/482.ts
+#EXTINF:-1,[IT] La7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/487.ts
+#EXTINF:-1,[IT] Italia 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/484.ts
+#EXTINF:-1,[IT] Italia 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/495.ts
+#EXTINF:-1,[IT] Canale 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/486.ts
+#EXTINF:-1,[IT] Rai Senato
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/491.ts
+#EXTINF:-1,[IT] Rai Scuola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/492.ts
+#EXTINF:-1,[IT] Rai Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/479.ts
+#EXTINF:-1,[IT] Rai Movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/478.ts
+#EXTINF:-1,[IT] Pesca e Caccia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/493.ts
+#EXTINF:-1,[IT] Focus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/496.ts
+#EXTINF:-1,[IT] RAI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/606.ts
+#EXTINF:-1,[IT] NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/602.ts
+#EXTINF:-1,[IT] Sport Italia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/592.ts
+#EXTINF:-1,[IT] SKY TG 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/591.ts
+#EXTINF:-1,[IT] Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/601.ts
+#EXTINF:-1,[IT] Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/600.ts
+#EXTINF:-1,[IT] Sky Sport 1  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/599.ts
+#EXTINF:-1,[IT] Sky Cinema  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/589.ts
+#EXTINF:-1,[IT] Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/588.ts
+#EXTINF:-1,[IT] Tv Globo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1057.ts
+#EXTINF:-1,[IT] SKY Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1081.ts
+#EXTINF:-1,[IT] SKy Sport 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1082.ts
+#EXTINF:-1,[IT] Sky_Primafila_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1491.ts
+#EXTINF:-1,[IT] Sky_Primafila_2 _HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1492.ts
+#EXTINF:-1,[IT] Sky_Primafila_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1493.ts
+#EXTINF:-1,[IT] Sky_Primafila_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1494.ts
+#EXTINF:-1,[IT] Sky_Primafila_5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1495.ts
+#EXTINF:-1,[IT] Sky_Primafila_6_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1496.ts
+#EXTINF:-1,[IT] Sky_Primafila_7_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1497.ts
+#EXTINF:-1,[IT] Sky_Primafila_8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1498.ts
+#EXTINF:-1,[IT] Sky_Primafila_9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1499.ts
+#EXTINF:-1,[IT] Sky_Primafila_10_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1500.ts
+#EXTINF:-1,[IT] Sky Primafila19 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1063.ts
+#EXTINF:-1,[IT] Sky Primafila16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1062.ts
+#EXTINF:-1,[IT] Sky Primafila WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1059.ts
+#EXTINF:-1,[IT] Sky Primafila 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1061.ts
+#EXTINF:-1,[IT] Sky Primafila 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1060.ts
+#EXTINF:-1,[IT] SKY CINEMA Plus 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1064.ts
+#EXTINF:-1,[IT] Real Time HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1084.ts
+#EXTINF:-1,[IT] Rai News 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1066.ts
+#EXTINF:-1,[IT] Primafila 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1067.ts
+#EXTINF:-1,[IT] PREMIUM CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1065.ts
+#EXTINF:-1,[IT] Mediaset Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1068.ts
+#EXTINF:-1,[IT] Marcopolo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1069.ts
+#EXTINF:-1,[IT] FOX Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1085.ts
+#EXTINF:-1,[IT] Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1086.ts
+#EXTINF:-1,[IT] Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1087.ts
+#EXTINF:-1,[IT] Fox Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1088.ts
+#EXTINF:-1,[IT] Fox Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1089.ts
+#EXTINF:-1,[IT] Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1071.ts
+#EXTINF:-1,[IT] Discovery Travel & Living HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1072.ts
+#EXTINF:-1,[IT] Discovery Sci HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1073.ts
+#EXTINF:-1,[IT] Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1074.ts
+#EXTINF:-1,[IT] Deejay TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1075.ts
+#EXTINF:-1,[IT] Cielo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1091.ts
+#EXTINF:-1,[IT] CI Crime Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1076.ts
+#EXTINF:-1,[IT] Cartonitoo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1077.ts
+#EXTINF:-1,[IT] AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1078.ts
+#EXTINF:-1,[IT] Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1079.ts
+#EXTINF:-1,[IT] Alice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1080.ts
+#EXTINF:-1,[IT] Rai YoYo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1600.ts
+#EXTINF:-1,[IT] Rai Gulp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1602.ts
+#EXTINF:-1,[IT] Rai News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1601.ts
+#EXTINF:-1,[IT] Sky Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2643.ts
+#EXTINF:-1,*******PL-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1631.ts
+#EXTINF:-1,[PL] UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1623.ts
+#EXTINF:-1,[PL] TVP SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1613.ts
+#EXTINF:-1,[PL] TVP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1614.ts
+#EXTINF:-1,[PL] TVP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1615.ts
+#EXTINF:-1,[PL] TV4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1624.ts
+#EXTINF:-1,[PL] POLSAT PLAY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1625.ts
+#EXTINF:-1,[PL] POLSAT FILM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1626.ts
+#EXTINF:-1,[PL] POLSAT CAFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1627.ts
+#EXTINF:-1,[PL] POLSAT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1628.ts
+#EXTINF:-1,[PL] NSPORT  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1616.ts
+#EXTINF:-1,[PL] FILMBOX EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1629.ts
+#EXTINF:-1,[PL] FIGHTKLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1617.ts
+#EXTINF:-1,[PL] ELEVEN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1618.ts
+#EXTINF:-1,[PL] ELEVEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1619.ts
+#EXTINF:-1,[PL] CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1620.ts
+#EXTINF:-1,[PL] CANAL SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1621.ts
+#EXTINF:-1,[PL] CANAL SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1622.ts
+#EXTINF:-1,[PL] CANAL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1630.ts
+#EXTINF:-1,*******PT-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/385.ts
+#EXTINF:-1,[PT] VH1 CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1141.ts
+#EXTINF:-1,[PT] VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1159.ts
+#EXTINF:-1,[PT] TVSERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1184.ts
+#EXTINF:-1,[PT] TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1187.ts
+#EXTINF:-1,[PT] TVI  FICCAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1160.ts
+#EXTINF:-1,[PT]: MOTOVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1986.ts
+#EXTINF:-1,[PT]: Jim Jam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1985.ts
+#EXTINF:-1,[PT]: Axn White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1982.ts
+#EXTINF:-1,[PT]: Axn Black HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1983.ts
+#EXTINF:-1,[PT]: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1984.ts
+#EXTINF:-1,[PT]: TV GLOBO PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2019.ts
+#EXTINF:-1,[PT]: TCV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2020.ts
+#EXTINF:-1,[PT]: MOV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2021.ts
+#EXTINF:-1,[PT]: CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2022.ts
+#EXTINF:-1,[PT] TV_GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2155.ts
+#EXTINF:-1,[PT] Toros_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2147.ts
+#EXTINF:-1,[PT] SMO_TV_Costa_Rica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2154.ts
+#EXTINF:-1,[PT] REDE_TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2151.ts
+#EXTINF:-1,[PT] Rede_Minas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2152.ts
+#EXTINF:-1,[PT] REDE_GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2153.ts
+#EXTINF:-1,[PT] MANA_SAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2150.ts
+#EXTINF:-1,[PT] FOOD_NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2144.ts
+#EXTINF:-1,[PT] Euronews_Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2157.ts
+#EXTINF:-1,[PT] El_Trece
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2149.ts
+#EXTINF:-1,[PT] ANIMAL_PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2156.ts
+#EXTINF:-1,[PT] AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2143.ts
+#EXTINF:-1,[PT] TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1161.ts
+#EXTINF:-1,[PT] TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1162.ts
+#EXTINF:-1,[PT] TVCINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1142.ts
+#EXTINF:-1,[PT] TVCINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1143.ts
+#EXTINF:-1,[PT] TVCINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1144.ts
+#EXTINF:-1,[PT] TVCINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1145.ts
+#EXTINF:-1,[PT] TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1173.ts
+#EXTINF:-1,[PT] SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1174.ts
+#EXTINF:-1,[PT] SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1146.ts
+#EXTINF:-1,[PT] SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1147.ts
+#EXTINF:-1,[PT] SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1198.ts
+#EXTINF:-1,[PT] SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1139.ts
+#EXTINF:-1,[PT] SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1140.ts
+#EXTINF:-1,[PT] SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1158.ts
+#EXTINF:-1,[PT] SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1188.ts
+#EXTINF:-1,[PT] SIC NOTTCIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1189.ts
+#EXTINF:-1,[PT] SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1190.ts
+#EXTINF:-1,[PT] SIC Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1165.ts
+#EXTINF:-1,[PT] SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1166.ts
+#EXTINF:-1,[PT] SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1148.ts
+#EXTINF:-1,[PT] RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1149.ts
+#EXTINF:-1,[PT] RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1150.ts
+#EXTINF:-1,[PT] RTP FRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1151.ts
+#EXTINF:-1,[PT] RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1152.ts
+#EXTINF:-1,[PT] RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2202.ts
+#EXTINF:-1,[PT] RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1153.ts
+#EXTINF:-1,[PT] RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1154.ts
+#EXTINF:-1,[PT] RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1155.ts
+#EXTINF:-1,[PT] PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1199.ts
+#EXTINF:-1,[PT] PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1191.ts
+#EXTINF:-1,[PT] PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1167.ts
+#EXTINF:-1,[PT] ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1175.ts
+#EXTINF:-1,[PT] NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1196.ts
+#EXTINF:-1,[PT] NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1200.ts
+#EXTINF:-1,[PT] MOTORS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1201.ts
+#EXTINF:-1,[PT] HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1185.ts
+#EXTINF:-1,[PT] HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1202.ts
+#EXTINF:-1,[PT] GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1192.ts
+#EXTINF:-1,[PT] FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1203.ts
+#EXTINF:-1,[PT] FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1204.ts
+#EXTINF:-1,[PT] ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1205.ts
+#EXTINF:-1,[PT] DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1179.ts
+#EXTINF:-1,[PT] DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1180.ts
+#EXTINF:-1,[PT] DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1181.ts
+#EXTINF:-1,[PT] CM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1156.ts
+#EXTINF:-1,[PT] CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1194.ts
+#EXTINF:-1,[PT] CARTOON NETWORK PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1182.ts
+#EXTINF:-1,[PT] CANLE NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1206.ts
+#EXTINF:-1,[PT] BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1183.ts
+#EXTINF:-1,[PT] A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1186.ts
+#EXTINF:-1,[PT] TVCseries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/398.ts
+#EXTINF:-1,[PT] FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2448.ts
+#EXTINF:-1,[PT] FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2449.ts
+#EXTINF:-1,[PT] KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2447.ts
+#EXTINF:-1,[PT] BenficaTV-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/392.ts
+#EXTINF:-1,[PT] BenficaTV-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/393.ts
+#EXTINF:-1,*******NL-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/587.ts
+#EXTINF:-1,[IT] RTL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/569.ts
+#EXTINF:-1,[NL] Film 1 Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1808.ts
+#EXTINF:-1,[NL] Film 1 Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1810.ts
+#EXTINF:-1,[NL] Film 1 Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1807.ts
+#EXTINF:-1,[NL] Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1811.ts
+#EXTINF:-1,[NL] Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1789.ts
+#EXTINF:-1,[NL] Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1790.ts
+#EXTINF:-1,[NL] Discovery Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1798.ts
+#EXTINF:-1,[NL] Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1797.ts
+#EXTINF:-1,[NL] Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1792.ts
+#EXTINF:-1,[NL] Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1791.ts
+#EXTINF:-1,[NL] Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1788.ts
+#EXTINF:-1,[NL] Baby Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1787.ts
+#EXTINF:-1,[NL] 24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1781.ts
+#EXTINF:-1,[NL] Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1800.ts
+#EXTINF:-1,[NL] Ziggo Sport Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1801.ts
+#EXTINF:-1,[NL] Ziggo Sport Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1803.ts
+#EXTINF:-1,[NL] Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1802.ts
+#EXTINF:-1,[NL] Veronica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1783.ts
+#EXTINF:-1,[NL] Tlc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1778.ts
+#EXTINF:-1,[NL] Ziggo Sport 2 Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1819.ts
+#EXTINF:-1,[NL] Ziggo Sport 1 Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1818.ts
+#EXTINF:-1,[NL] Sbs 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1774.ts
+#EXTINF:-1,[NL] Sbs 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1771.ts
+#EXTINF:-1,[NL] Rtl Z
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1775.ts
+#EXTINF:-1,[NL] Rtl Lounge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1777.ts
+#EXTINF:-1,[NL] Rtl 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1773.ts
+#EXTINF:-1,[NL] Rtl 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1772.ts
+#EXTINF:-1,[NL] Rtl 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1770.ts
+#EXTINF:-1,[NL] Rtl 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1769.ts
+#EXTINF:-1,[NL] Npo 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1766.ts
+#EXTINF:-1,[NL] Npo 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1767.ts
+#EXTINF:-1,[NL] Npo 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1768.ts
+#EXTINF:-1,[NL] Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1785.ts
+#EXTINF:-1,[NL] Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1786.ts
+#EXTINF:-1,[NL] Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1784.ts
+#EXTINF:-1,[NL] Net 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1776.ts
+#EXTINF:-1,[NL] National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1799.ts
+#EXTINF:-1,[NL] History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1780.ts
+#EXTINF:-1,[NL] Hbo 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1804.ts
+#EXTINF:-1,[NL] Hbo 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1805.ts
+#EXTINF:-1,[NL] Hbo 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1806.ts
+#EXTINF:-1,[NL] Fox Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1812.ts
+#EXTINF:-1,[NL] Fox Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1813.ts
+#EXTINF:-1,[NL] Fox Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1815.ts
+#EXTINF:-1,[NL] Fox Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1814.ts
+#EXTINF:-1,[NL] Fox Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1816.ts
+#EXTINF:-1,[NL] Fox Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1817.ts
+#EXTINF:-1,[NL] Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1779.ts
+#EXTINF:-1,[NL] Film 1 Sundance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1809.ts
+#EXTINF:-1,*******DE-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/771.ts
+#EXTINF:-1,[DE] ZDF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1838.ts
+#EXTINF:-1,[DE] WDR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1852.ts
+#EXTINF:-1,[DE] VOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1839.ts
+#EXTINF:-1,[DE] SIXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1855.ts
+#EXTINF:-1,[DE] RTL NITRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1856.ts
+#EXTINF:-1,[DE] RTL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1836.ts
+#EXTINF:-1,[DE] RTL CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1857.ts
+#EXTINF:-1,[DE] RTL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1837.ts
+#EXTINF:-1,[DE] PRO 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1842.ts
+#EXTINF:-1,[DE] ORF 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1860.ts
+#EXTINF:-1,[DE] ORF 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1859.ts
+#EXTINF:-1,[DE] N24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1843.ts
+#EXTINF:-1,[DE] N-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1844.ts
+#EXTINF:-1,[DE] MGM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1861.ts
+#EXTINF:-1,[DE] KIKA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1845.ts
+#EXTINF:-1,[DE] KABEL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1846.ts
+#EXTINF:-1,[DE] HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1847.ts
+#EXTINF:-1,[DE] FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1862.ts
+#EXTINF:-1,[DE] ARD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1851.ts
+#EXTINF:-1,[DE] SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/809.ts
+#EXTINF:-1,[DE] AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/810.ts
+#EXTINF:-1,[DE] SkyEmotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/792.ts
+#EXTINF:-1,[DE] SKY_TNT_SERIES_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/794.ts
+#EXTINF:-1,[DE] SKY_TNT_FILME_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/795.ts
+#EXTINF:-1,[DE] SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1820.ts
+#EXTINF:-1,[DE] SKY NOSTALGIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1853.ts
+#EXTINF:-1,[DE] SKY NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1825.ts
+#EXTINF:-1,[DE] SKY NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1826.ts
+#EXTINF:-1,[DE] SKY KRIMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1827.ts
+#EXTINF:-1,[DE] SKY HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1854.ts
+#EXTINF:-1,[DE] SKY DMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1829.ts
+#EXTINF:-1,[DE] SKY COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1830.ts
+#EXTINF:-1,[DE] SKY CINEMAGIC 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1831.ts
+#EXTINF:-1,[DE] SKY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1832.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1823.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1824.ts
+#EXTINF:-1,[DE] SKY ATLANTIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1833.ts
+#EXTINF:-1,[DE] SKY ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1834.ts
+#EXTINF:-1,[DE] SKY_HISTORY_CHANNEL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/797.ts
+#EXTINF:-1,[DE] SKY_DISCOVERY_CHANNEL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/798.ts
+#EXTINF:-1,[DE] SKY SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/805.ts
+#EXTINF:-1,[DE] SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/806.ts
+#EXTINF:-1,[DE] SKY_SELECT_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/799.ts
+#EXTINF:-1,[DE] SKY SELECT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/800.ts
+#EXTINF:-1,[DE] SKY SELECT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/801.ts
+#EXTINF:-1,[DE] SKY SELECT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/803.ts
+#EXTINF:-1,[DE] SKY SELECT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/802.ts
+#EXTINF:-1,********* INDIA *********
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/969.ts
+#EXTINF:-1,[IN] Zee Tv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/972.ts
+#EXTINF:-1,[IN] Zee Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/973.ts
+#EXTINF:-1,[IN] UTV Movies International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/976.ts
+#EXTINF:-1,[IN] Star Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/977.ts
+#EXTINF:-1,[IN] Sony Set Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/974.ts
+#EXTINF:-1,[IN] Sony Max 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/975.ts
+#EXTINF:-1,[IN] Star Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/980.ts
+#EXTINF:-1,[IN] Star Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/979.ts
+#EXTINF:-1,[IN] Star_Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/978.ts
+#EXTINF:-1,[IN] B4U_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/970.ts
+#EXTINF:-1,[IN] B4U_Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/971.ts
+#EXTINF:-1,[IN] ZEE TV ME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1880.ts
+#EXTINF:-1,[IN] ZEE SMILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1882.ts
+#EXTINF:-1,[IN] ZEE ETC Bollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1884.ts
+#EXTINF:-1,[IN] ZEE CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1885.ts
+#EXTINF:-1,[IN] ZEE BOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1881.ts
+#EXTINF:-1,[GR] KONTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/820.ts
+#EXTINF:-1,[GR] OMEGA TELEVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/825.ts
+#EXTINF:-1,*******TR-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/842.ts
+#EXTINF:-1,[TR] SALON 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/862.ts
+#EXTINF:-1,[TR] SALON 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/861.ts
+#EXTINF:-1,[TR] SALON 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/860.ts
+#EXTINF:-1,[TR] LIG TV HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/843.ts
+#EXTINF:-1,[TR] LIGTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/844.ts
+#EXTINF:-1,[TR] LIGTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/845.ts
+#EXTINF:-1,[TR] CineStar Korku
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1044.ts
+#EXTINF:-1,[TR] CineStar Animasyon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1045.ts
+#EXTINF:-1,[TR] SineMax Turk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1048.ts
+#EXTINF:-1,[TR] SineMAX Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1049.ts
+#EXTINF:-1,[TR] SINEMA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1050.ts
+#EXTINF:-1,[TR] National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1053.ts
+#EXTINF:-1,[TR] Moviesmart Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1037.ts
+#EXTINF:-1,[TR] Moviesmart Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1039.ts
+#EXTINF:-1,[TR] Moviesmart Platin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1040.ts
+#EXTINF:-1,[TR] Moviesmart Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1041.ts
+#EXTINF:-1,[TR] Moviesmart Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1038.ts
+#EXTINF:-1,[TR] Moviesmart Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1042.ts
+#EXTINF:-1,[TR] HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1055.ts
+#EXTINF:-1,[TR] Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1054.ts
+#EXTINF:-1,[TR] DiGiMAX ANIMASYON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1043.ts
+#EXTINF:-1,[TR] CINESTAR TÜRK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1047.ts
+#EXTINF:-1,[TR] CINESTAR TÜRK 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1046.ts
+#EXTINF:-1,[TR] Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1051.ts
+#EXTINF:-1,[TR] LIGTV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/846.ts
+#EXTINF:-1,[TR] ULKE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/847.ts
+#EXTINF:-1,[TR] TV EM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/848.ts
+#EXTINF:-1,[TR] TV 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/849.ts
+#EXTINF:-1,[TR] TRT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/850.ts
+#EXTINF:-1,[TR] TRT SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/851.ts
+#EXTINF:-1,[TR] TRT OKUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/852.ts
+#EXTINF:-1,[TR] TRT HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/853.ts
+#EXTINF:-1,[TR] TRT DIYANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/854.ts
+#EXTINF:-1,[TR] TRT COCUK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/855.ts
+#EXTINF:-1,[TR] TRT BELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/856.ts
+#EXTINF:-1,[TR] TIVIBUSPOR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/857.ts
+#EXTINF:-1,[TR] TIVIBUSPOR 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/858.ts
+#EXTINF:-1,[TR] TGRT HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/859.ts
+#EXTINF:-1,[TR] TVEM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2388.ts
+#EXTINF:-1,[TR] TV8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2392.ts
+#EXTINF:-1,[TR] TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2393.ts
+#EXTINF:-1,[TR] TRTHABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2394.ts
+#EXTINF:-1,[TR] TGRTHABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2411.ts
+#EXTINF:-1,[TR] STARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2389.ts
+#EXTINF:-1,[TR] SPORTSTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2410.ts
+#EXTINF:-1,[TR] SHOWTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2391.ts
+#EXTINF:-1,[TR] NTVSPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2401.ts
+#EXTINF:-1,[TR] NATIONALGEOGRAPHICPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2397.ts
+#EXTINF:-1,[TR] NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2398.ts
+#EXTINF:-1,[TR] LOCA3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2404.ts
+#EXTINF:-1,[TR] LOCA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2403.ts
+#EXTINF:-1,[TR] LOCA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2402.ts
+#EXTINF:-1,[TR] KANALD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2400.ts
+#EXTINF:-1,[TR] KANAL7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2406.ts
+#EXTINF:-1,[TR] HISTORYCHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2396.ts
+#EXTINF:-1,[TR] HABERTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2407.ts
+#EXTINF:-1,[TR] DISCOVERYCHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2395.ts
+#EXTINF:-1,[TR] CCNTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2408.ts
+#EXTINF:-1,[TR] CARTOONNETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2390.ts
+#EXTINF:-1,[TR] BEYAZTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2409.ts
+#EXTINF:-1,[TR] BENGUTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2405.ts
+#EXTINF:-1,[TR] ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2399.ts
+#EXTINF:-1,[TR] VIP TVBUSPOR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2478.ts
+#EXTINF:-1,[TR] VIP TVBUSPOR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2479.ts
+#EXTINF:-1,[TR] VIP TVBUSPOR 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2480.ts
+#EXTINF:-1,[TR] VIP TVBUSPOR 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2481.ts
+#EXTINF:-1,*********KURD-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1207.ts
+#EXTINF:-1,[KU] TV10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1216.ts
+#EXTINF:-1,[KU] Sterk TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1210.ts
+#EXTINF:-1,[KU] RONAHİ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1212.ts
+#EXTINF:-1,[KU] OZGUR GUN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1214.ts
+#EXTINF:-1,[KU] NEWROZTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1215.ts
+#EXTINF:-1,[KU] MedNuce
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1211.ts
+#EXTINF:-1,[KU] MED MUZIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1217.ts
+#EXTINF:-1,[KU] JIYAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1218.ts
+#EXTINF:-1,*******ALB-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1906.ts
+#EXTINF:-1,[ALB] Top Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1908.ts
+#EXTINF:-1,[ALB] SUPER SPORT KOSAVA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1913.ts
+#EXTINF:-1,[ALB] SUPER SPORRT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1914.ts
+#EXTINF:-1,[ALB] SUPER SPORRT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1916.ts
+#EXTINF:-1,[ALB] SUPER SPORRT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1917.ts
+#EXTINF:-1,[ALB] STINET CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1919.ts
+#EXTINF:-1,[ALB] RTV 21 JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1920.ts
+#EXTINF:-1,[ALB] PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1910.ts
+#EXTINF:-1,[ALB] Nje HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1921.ts
+#EXTINF:-1,[ALB] KLUB MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1923.ts
+#EXTINF:-1,[ALB] JOLLY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1929.ts
+#EXTINF:-1,[ALB] FILM AKSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1938.ts
+#EXTINF:-1,[ALB] DIGI GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1941.ts
+#EXTINF:-1,[ALB] ALB CIFTETELLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1947.ts
+#EXTINF:-1,[ AL ] TRING SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1393.ts
+#EXTINF:-1,[ AL ] TRING SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1394.ts
+#EXTINF:-1,[ AL ] TRING SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1395.ts
+#EXTINF:-1,[ AL ] TRING SHQIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1396.ts
+#EXTINF:-1,[ AL ] TRING MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1398.ts
+#EXTINF:-1,[ AL ] TRING LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1399.ts
+#EXTINF:-1,[ AL ] TRING JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1400.ts
+#EXTINF:-1,[ AL ] TRING FOLK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1403.ts
+#EXTINF:-1,[ AL ] SUPER SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1426.ts
+#EXTINF:-1,[ AL ] News 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1565.ts
+#EXTINF:-1,*********EX-YU-CHANNELS*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1034.ts
+#EXTINF:-1,[EX-YU] Pink Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1030.ts
+#EXTINF:-1,[EX-YU] Pink Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1029.ts
+#EXTINF:-1,[EX-YU] Pink Pedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1032.ts
+#EXTINF:-1,[EX-YU] Pink Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1031.ts
+#EXTINF:-1,[EX-YU] Pink Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1033.ts
+#EXTINF:-1,[EX-YU] Pink Crime.Mystery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1028.ts
+#EXTINF:-1,[EX-YU] Cinestar Premier 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1027.ts
+#EXTINF:-1,[EX-YU] Cinestar Premier 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1026.ts
+#EXTINF:-1,[EX-YU] Cinestar Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1025.ts
+#EXTINF:-1,[ EX-YU ] FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1697.ts
+#EXTINF:-1,[ EX-YU ] PINK PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1677.ts
+#EXTINF:-1,[ EX-YU ] PINK MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1678.ts
+#EXTINF:-1,[ EX-YU ] pink KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1679.ts
+#EXTINF:-1,[ EX-YU ] PINK HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1680.ts
+#EXTINF:-1,[ EX-YU ] Sport Klub 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1663.ts
+#EXTINF:-1,[ EX-YU ] Sport Klub 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1664.ts
+#EXTINF:-1,[ EX-YU ] Sport Klub 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1665.ts
+#EXTINF:-1,[ EX-YU ] SK2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1666.ts
+#EXTINF:-1,[ EX-YU ] SK1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1667.ts
+#EXTINF:-1,[ EX-YU ] pink2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1668.ts
+#EXTINF:-1,[ EX-YU ] PINK1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1669.ts
+#EXTINF:-1,[ EX-YU ] PINK ZABAVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1670.ts
+#EXTINF:-1,[ EX-YU ] Pink World Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1671.ts
+#EXTINF:-1,[EX-YU] Hrt 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2176.ts
+#EXTINF:-1,[EX-YU] Hrt 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2175.ts
+#EXTINF:-1,[EX-YU] Hrt 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2174.ts
+#EXTINF:-1,[EX-YU] Hrt 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2173.ts
+#EXTINF:-1,[ EX-YU ] pink world
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1672.ts
+#EXTINF:-1,[ EX-YU ] PINK THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1673.ts
+#EXTINF:-1,[ EX-YU ] Pink Serije
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1674.ts
+#EXTINF:-1,[ EX-YU ] PINK romance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1675.ts
+#EXTINF:-1,[ EX-YU ] PINK REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1676.ts
+#EXTINF:-1,[ EX-YU ] PINK FOLK2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1681.ts
+#EXTINF:-1,[ EX-YU ] PINK FOLK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1682.ts
+#EXTINF:-1,[ EX-YU ] Pink Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1683.ts
+#EXTINF:-1,[ EX-YU ] PINK extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1684.ts
+#EXTINF:-1,[ EX-YU ] Pink Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1685.ts
+#EXTINF:-1,[ EX-YU ] PINK CRIME & MISTERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1686.ts
+#EXTINF:-1,[ EX-YU ] Pink Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1687.ts
+#EXTINF:-1,[ EX-YU ] pink classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1688.ts
+#EXTINF:-1,[ EX-YU ] PINK BIH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1689.ts
+#EXTINF:-1,[ EX-YU ] PINK action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1690.ts
+#EXTINF:-1,[ EX-YU ] NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1691.ts
+#EXTINF:-1,[ EX-YU ] HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1692.ts
+#EXTINF:-1,[ EX-YU ] HBO COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1693.ts
+#EXTINF:-1,[ EX-YU ] HBO ADRIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1694.ts
+#EXTINF:-1,[ EX-YU ] FOX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1695.ts
+#EXTINF:-1,[ EX-YU ] FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1696.ts
+#EXTINF:-1,[ EX-YU ] FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1698.ts
+#EXTINF:-1,[ EX-YU ] EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1699.ts
+#EXTINF:-1,[ EX-YU ] EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1700.ts
+#EXTINF:-1,[ EX-YU ] DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1701.ts
+#EXTINF:-1,[ EX-YU ] Cinestar Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1702.ts
+#EXTINF:-1,[ EX-YU ] CINESTAR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1703.ts
+#EXTINF:-1,[ EX-YU ] CINESTAR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1704.ts
+#EXTINF:-1,[ EX-YU ] Cinemax 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1705.ts
+#EXTINF:-1,[ EX-YU ] Cinemax 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1706.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport5 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1707.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport4 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1708.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport3 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1709.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport2 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1710.ts
+#EXTINF:-1,*****GENERAL UK*****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/936.ts
+#EXTINF:-1,[UK] Sky_Movies_Thriller DMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/619.ts
+#EXTINF:-1,[UK] SKY  SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/618.ts
+#EXTINF:-1,[UK] Sky Movies Sci-fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/617.ts
+#EXTINF:-1,[UK] SKY MOVIES MODERN GRATES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/616.ts
+#EXTINF:-1,[UK] Yesterday
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1101.ts
+#EXTINF:-1,[UK] Watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1102.ts
+#EXTINF:-1,[UK] Vh1 Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1106.ts
+#EXTINF:-1,[UK] Horror Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1580.ts
+#EXTINF:-1,[UK] True Movies 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1108.ts
+#EXTINF:-1,[UK] True Movies 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1107.ts
+#EXTINF:-1,[UK] TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1119.ts
+#EXTINF:-1,[UK] Sky Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1121.ts
+#EXTINF:-1,[UK] Sky Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1122.ts
+#EXTINF:-1,[UK] Sky Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1123.ts
+#EXTINF:-1,[UK] Sky Sci-Fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1126.ts
+#EXTINF:-1,[UK] Sky One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1093.ts
+#EXTINF:-1,[UK] Sky Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1109.ts
+#EXTINF:-1,[UK] SKY  NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1127.ts
+#EXTINF:-1,[UK] Setanta Ireland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1114.ts
+#EXTINF:-1,[UK] Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1094.ts
+#EXTINF:-1,[UK] Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1095.ts
+#EXTINF:-1,[UK] Mototrs TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1096.ts
+#EXTINF:-1,[UK] London Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1092.ts
+#EXTINF:-1,[UK] Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1097.ts
+#EXTINF:-1,[UK] Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1116.ts
+#EXTINF:-1,[UK] CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1118.ts
+#EXTINF:-1,[UK] Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1098.ts
+#EXTINF:-1,[UK] Boxnation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1099.ts
+#EXTINF:-1,[UK] Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1100.ts
+#EXTINF:-1,[UK] BBC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1528.ts
+#EXTINF:-1,[UK] BBC ENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1527.ts
+#EXTINF:-1,[UK] BBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1532.ts
+#EXTINF:-1,[UK] BBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1531.ts
+#EXTINF:-1,[UK] BBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1530.ts
+#EXTINF:-1,[UK] BBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1529.ts
+#EXTINF:-1,[UK] BT SPORT EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1553.ts
+#EXTINF:-1,[UK] Chelsea Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/615.ts
+#EXTINF:-1,[UK] SKY SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/642.ts
+#EXTINF:-1,[UK] SKY SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/641.ts
+#EXTINF:-1,[UK] SKY SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/640.ts
+#EXTINF:-1,[UK] SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/638.ts
+#EXTINF:-1,[UK] SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/639.ts
+#EXTINF:-1,[UK] Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/629.ts
+#EXTINF:-1,[UK] MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/627.ts
+#EXTINF:-1,[UK] Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/626.ts
+#EXTINF:-1,[UK] EuroSport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/625.ts
+#EXTINF:-1,[UK] BT SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/622.ts
+#EXTINF:-1,[UK] BT SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/621.ts
+#EXTINF:-1,[UK] SKY MOVIES PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/636.ts
+#EXTINF:-1,[UK] SKY Movies Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/634.ts
+#EXTINF:-1,[UK] SKY ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/633.ts
+#EXTINF:-1,[UK] National_Geography
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/613.ts
+#EXTINF:-1,[UK] Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/611.ts
+#EXTINF:-1,[UK] Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/624.ts
+#EXTINF:-1,[UK] Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/609.ts
+#EXTINF:-1,[UK] COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/635.ts
+#EXTINF:-1,[UK] CTH-Stadium-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/4.ts
+#EXTINF:-1,[UK] CTH-Stadium-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/5.ts
+#EXTINF:-1,[UK] CTH-Stadium-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/6.ts
+#EXTINF:-1,[UK] CTH-Stadium-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/7.ts
+#EXTINF:-1,[UK] CTH-Stadium-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/8.ts
+#EXTINF:-1,[UK] CTH-Stadium-6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/9.ts
+#EXTINF:-1,*********USA*******
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/937.ts
+#EXTINF:-1,[USA] TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/941.ts
+#EXTINF:-1,[USA] TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/940.ts
+#EXTINF:-1,[USA] TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/939.ts
+#EXTINF:-1,[USA] FOX SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/944.ts
+#EXTINF:-1,[USA] ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/943.ts
+#EXTINF:-1,[USA] ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/942.ts
+#EXTINF:-1,[USA] BEIN SPORT USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/945.ts
+#EXTINF:-1,[USA] NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/938.ts
+#EXTINF:-1,[USA] Tsn-Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1737.ts
+#EXTINF:-1,[USA] Nasa TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1739.ts
+#EXTINF:-1,[USA] HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1740.ts
+#EXTINF:-1,[USA] Fox Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1741.ts
+#EXTINF:-1,[USA] SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1714.ts
+#EXTINF:-1,[USA] SPIKE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1715.ts
+#EXTINF:-1,[USA] HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1719.ts
+#EXTINF:-1,[USA] FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1720.ts
+#EXTINF:-1,[USA] COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1722.ts
+#EXTINF:-1,[USA] CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1713.ts
+#EXTINF:-1,[USA] CNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1723.ts
+#EXTINF:-1,[USA] CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1724.ts
+#EXTINF:-1,[USA] BRAVO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1725.ts
+#EXTINF:-1,[USA] ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1726.ts
+#EXTINF:-1,[USA] AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1727.ts
+#EXTINF:-1,[USA] ABC NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1728.ts
+#EXTINF:-1,[USA] TMN 4 movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1732.ts
+#EXTINF:-1,[USA] TMN 3 movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1731.ts
+#EXTINF:-1,[USA] TMN 2 movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1730.ts
+#EXTINF:-1,[USA] TMN 1 movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1729.ts
+#EXTINF:-1,[USA] Poker Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1742.ts
+#EXTINF:-1,[USA] A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1733.ts
+#EXTINF:-1,<<<<< ADULTS XXX >>>>>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1988.ts
+#EXTINF:-1,[XXX] HOT CLUB 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1996.ts
+#EXTINF:-1,[XXX] HOT CLUB 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1995.ts
+#EXTINF:-1,[XXX] HOT CLUB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1994.ts
+#EXTINF:-1,[XXX] Hot
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2004.ts
+#EXTINF:-1,[XXX] Brazzers Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2008.ts
+#EXTINF:-1,[XXX] Venus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2002.ts
+#EXTINF:-1,[XXX] PlayBoy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2003.ts
+#EXTINF:-1,[XXX] Candy TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2001.ts
+#EXTINF:-1,[XXX] Pink erotica2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1993.ts
+#EXTINF:-1,[XXX] Pink erotica1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1992.ts
+#EXTINF:-1,[XXX] DUSK! DeLuxe NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1991.ts
+#EXTINF:-1,[XXX] PRIVATE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2000.ts
+#EXTINF:-1,[XXX] SCT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1999.ts
+#EXTINF:-1,[XXX] Sct hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1998.ts
+#EXTINF:-1,[XXX] REDLIGHT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/1990.ts
+#EXTINF:-1,[XXX] Private Tv local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2007.ts
+#EXTINF:-1,[XXX] Pinko Tv-local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2006.ts
+#EXTINF:-1,[XXX] Passion Tv- local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2005.ts
+#EXTINF:-1,[XXX] Adult 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2017.ts
+#EXTINF:-1,[XXX] Adult 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2016.ts
+#EXTINF:-1,[XXX] Adult 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2015.ts
+#EXTINF:-1,[XXX] Adult 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2014.ts
+#EXTINF:-1,[XXX] Adult 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2013.ts
+#EXTINF:-1,[XXX] Adult 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2012.ts
+#EXTINF:-1,[XXX] Adult 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2011.ts
+#EXTINF:-1,[XXX] Adult 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2010.ts
+#EXTINF:-1,[XXX] Adult 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2009.ts
+#EXTINF:-1,[XXX] pinko
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2068.ts
+#EXTINF:-1,[XXX] Pentahouse_hd1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2069.ts
+#EXTINF:-1,[XXX] Tgirls
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2034.ts
+#EXTINF:-1,[XXX] NAKED_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2040.ts
+#EXTINF:-1,[XXX] HOTCLUB_20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2049.ts
+#EXTINF:-1,[XXX] HOT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2043.ts
+#EXTINF:-1,[XXX] HOT_CLUB_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2047.ts
+#EXTINF:-1,[XXX] Tv Girls
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2046.ts
+#EXTINF:-1,[XXX] Sext O Senso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2055.ts
+#EXTINF:-1,[XXX] Redlight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2056.ts
+#EXTINF:-1,[XXX] Playboy Red
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2037.ts
+#EXTINF:-1,[XXX] Pinko Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2067.ts
+#EXTINF:-1,[XXX] Jasmin1 Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2060.ts
+#EXTINF:-1,[XXX] Jasmin TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2058.ts
+#EXTINF:-1,[XXX] Hustler1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2050.ts
+#EXTINF:-1,[XXX] Hustler HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2059.ts
+#EXTINF:-1,[XXX] Hot Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2061.ts
+#EXTINF:-1,[XXX] ANAL IZAME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/boutique/boutique/2065.ts
+#EXTINF:-1,Iboy 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2613.mp4
+#EXTINF:-1,Almost Christmas 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2631.mkv
+#EXTINF:-1,Cien Anyos De Perdon 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2614.mp4
+#EXTINF:-1,Clinical 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2624.mp4
+#EXTINF:-1,Coin Heist 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2621.mp4
+#EXTINF:-1,Death Race 2050 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2626.mkv
+#EXTINF:-1,End Of A Gun 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2627.mkv
+#EXTINF:-1,Gad Elmaleh Part En Live 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2629.avi
+#EXTINF:-1,Killing Reagan 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2625.mp4
+#EXTINF:-1,Loving 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2633.mkv
+#EXTINF:-1,Southside With You 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2628.mkv
+#EXTINF:-1,Surfs Up 2 Wavemania 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2622.mp4
+#EXTINF:-1,Take The 10 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2632.mkv
+#EXTINF:-1,The Whole Truth 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2630.mkv
+#EXTINF:-1,Victoria 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2620.mp4
+#EXTINF:-1,When The Bough Breaks 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2634.mkv
+#EXTINF:-1,Fifty Shades Of Black 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2635.mkv
+#EXTINF:-1,It's Only The End Of The World French 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2636.mkv
+#EXTINF:-1,Deepwater Horizon 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2637.mkv
+#EXTINF:-1,Allies 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2639.mkv
+#EXTINF:-1,Doctor Strange 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2640.avi
+#EXTINF:-1,Hell Or High Water 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2641.mkv
+#EXTINF:-1,Live By Night 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2638.avi
+#EXTINF:-1,Moana 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2642.mp4
+#EXTINF:-1,Billy.Lynns.Long.Halftime.Walk.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2644.mkv
+#EXTINF:-1,Free.State.Of.Jones.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2645.mkv
+#EXTINF:-1,Imperial.Dreams.2014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2646.mp4
+#EXTINF:-1,Morgan.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2647.mkv
+#EXTINF:-1,The.Girl.on.the.Train.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/movie/boutique/boutique/2648.mkv
