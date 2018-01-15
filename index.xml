@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-
 
 <item>
 <title>[COLOR lime][B]                                                            LINK ADDON[/B][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>ignoreme</externallink>
 <thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/fanart.png</fanart>
+<fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/fanart.png</fanart>	
 </item>
 
 <item>
