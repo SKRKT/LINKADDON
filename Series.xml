@@ -9,10 +9,10 @@
 	<listrepeat><![CDATA[
 				<title>[makelist2.param1]</title>
 				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param3]</fanart>
+				<thumbnail>[makelist2.param5]</thumbnail>
+				<fanart>[makelist2.param5]</fanart>
 	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
 	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
 	<cookieJar></cookieJar>
 	</regex>
