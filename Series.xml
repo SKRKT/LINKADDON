@@ -9,7 +9,7 @@
 	<listrepeat><![CDATA[
 				<title>[makelist2.param1]</title>
 				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param5]</thumbnail>
+				<thumbnail>[makelist2.param3]</thumbnail>
 				<fanart>[makelist2.param5]</fanart>
 	]]></listrepeat>
 	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
@@ -22,7 +22,7 @@
 				<title>[makelist.param3]</title>
 				<link>$doregex[getUrl]</link>
 				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param3]</fanart>
+				<fanart>[makelist2.param5]</fanart>
 				]]></listrepeat>
 	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 	<page>[makelist2.param2]/list,1,15</page>
