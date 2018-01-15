@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<title>[COLOR lime][B]                                                            LINK ADDON[/B][/COLOR]</title>
+<name>[COLOR lime][B]                                                            LINK ADDON[/B][/COLOR]</name>
 <link>http://ignora.me</link>
 <externallink>http://ignora.me</externallink>
 <thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/icon.png</thumbnail>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<title>[COLOR lime]                                            Actualización:15-Enero-2018[/COLOR]</title>
+<name>[COLOR lime]                                            Actualización:15-Enero-2018[/COLOR]</name>
 <link>http://ignora.me</link>
 <externallink>http://ignora.me</externallink>
 <fanart>https://wallpaperdownload.xyz/wp-content/uploads/2016/10/incredible-hulk-wallpaper-HD10.jpg</fanart>
@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<title> </title>
+<name> </name>
 <link>http://ignora.me</link>
 <externallink>http://ignora.me</externallink>
 <fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/fanart.png</fanart>
@@ -26,7 +26,7 @@
 </channel>
 
 <channel>
-<title>[COLOR lime][B]•   *Partidos en vivo*[/B][/COLOR]</title>
+<name>[COLOR lime][B]•   *Partidos en vivo*[/B][/COLOR]</name>
 <link>http://ignora.me</link>
 <externallink>http://pastebin.com/raw/rUDS2ULQ</externallink>
 <thumbnail>http://www.nevadarevolutionsoccerleague.com/images/soccer.png</thumbnail>
@@ -34,7 +34,7 @@
 </channel>
 
 <channel>
-<title>[COLOR lime]•   Canales (TecnoTV)[/COLOR]</title>
+<name>[COLOR lime]•   Canales (TecnoTV)[/COLOR]</name>
 <link>http://ignora.me</link>
 <externallink>http://tecnotv.xyz/lista.m3u</externallink>
 <thumbnail>http://www.umainvestiga.uma.es/wp-content/uploads/2015/12/TV-icono.png</thumbnail>
@@ -42,7 +42,7 @@
 </channel>
 
 <channel>
-<title>[COLOR lime]•   Películas[/COLOR]</title>
+<name>[COLOR lime]•   Películas[/COLOR]</name>
 <link>http://ignora.me</link>
 <externallink>http://pastebin.com/raw/U9ap1h7R</externallink>
 <thumbnail>http://cdn.rts.com.ec/files/2015/08/28/PELICULAS.png</thumbnail>
@@ -50,7 +50,7 @@
 </channel>
 
 <channel>
-<title>[COLOR lime]•   Series[/COLOR]</title>
+<name>[COLOR lime]•   Series[/COLOR]</name>
 <link>http://ignora.me</link>
 <externallink>https://pastebin.com/raw/fdu3Nm4G</externallink>
 <thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/icon.png</thumbnail>
