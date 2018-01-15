@@ -1,57 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
+<channels>
+<channel>
 <title>[COLOR lime][B]                                                            LINK ADDON[/B][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://ignora.me</externallink>
 <thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/fanart.png</fanart>	
-</item>
+<fanart>https://wallpaperdownload.xyz/wp-content/uploads/2016/10/incredible-hulk-wallpaper-HD10.jpg</fanart>	
+</channel>
 
-<item>
+<channel>
 <title>[COLOR lime]                                            Actualización:15-Enero-2018[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://ignora.me</externallink>
-<fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/fanart.png</fanart>
+<fanart>https://wallpaperdownload.xyz/wp-content/uploads/2016/10/incredible-hulk-wallpaper-HD10.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/icon.png</thumbnail>
-</item>
+</channel>
 
-<item>
+<channel>
 <title> </title>
 <link>http://ignora.me</link>
 <externallink>http://ignora.me</externallink>
 <fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/fanart.png</fanart>
 <thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/icon.png</thumbnail>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>[COLOR lime][B]•   *Partidos en vivo*[/B][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://pastebin.com/raw/rUDS2ULQ</externallink>
 <thumbnail>http://www.nevadarevolutionsoccerleague.com/images/soccer.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/fanart.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>[COLOR lime]•   Canales (TecnoTV)[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://tecnotv.xyz/lista.m3u</externallink>
 <thumbnail>http://www.umainvestiga.uma.es/wp-content/uploads/2015/12/TV-icono.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/fanart.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>[COLOR lime]•   Películas[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://pastebin.com/raw/U9ap1h7R</externallink>
 <thumbnail>http://cdn.rts.com.ec/files/2015/08/28/PELICULAS.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/fanart.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>[COLOR lime]•   Series[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://pastebin.com/raw/fdu3Nm4G</externallink>
 <thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/fanart.jpg</fanart>
-</item>
+</channel>
+</channels>
