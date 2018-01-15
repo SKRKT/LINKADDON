@@ -19,7 +19,7 @@
 	<regex>
 	<name>makelist</name>
 	<listrepeat><![CDATA[
-				<title>[$pyFunction:[makelist.param3].replace('_','')]</title>
+				<title>[makelist.param3.replace('_','')]</title>
 				<link>$doregex[getUrl]</link>
 				<thumbnail>[makelist2.param3]</thumbnail>
 				<fanart>[makelist2.param3]</fanart>
