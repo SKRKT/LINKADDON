@@ -2,7 +2,7 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>[COLOR lime]•   Cantinflasñí[/COLOR]</title>
+<title>[COLOR lime]•   Cantinflas[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -76,7 +76,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•   Epoca de oro del cine Mexicano[/COLOR]</title>
+<title>[COLOR lime]•   Pedro Infante[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -86,7 +86,7 @@
         <thumbnail>http://img05.deviantart.net/b9ac/i/2010/333/9/3/vlc_movie_icon_by_captainego-d33vh70.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/IngArturo/epoca-de-oro-cine-mexicano-72081/list,1,4</page>
+<page>http://diskokosmiko.mx/SeriesHD/pelis-35575/list,1,20</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
