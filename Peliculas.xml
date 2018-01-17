@@ -266,11 +266,11 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[getUrl]</title>
+        <title>[makelist.param1]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://img05.deviantart.net/b9ac/i/2010/333/9/3/vlc_movie_icon_by_captainego-d33vh70.png</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<expres><![CDATA[DownloadUrl":"([^"]+)]]></expres>
 <page>http://diskokosmiko.mx/SKRKT/estrenos-101031</page>
 <cookieJar></cookieJar>
 </regex>
