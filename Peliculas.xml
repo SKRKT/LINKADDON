@@ -271,7 +271,7 @@
         <thumbnail>http://img05.deviantart.net/b9ac/i/2010/333/9/3/vlc_movie_icon_by_captainego-d33vh70.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[DownloadUrl":"([^"]+)]]></expres>
-<page>http://diskokosmiko.mx/SKRKT/estrenos-101031</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=1856188</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/icon.png</thumbnail>
