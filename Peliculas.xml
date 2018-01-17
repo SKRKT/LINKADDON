@@ -266,7 +266,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[getUrl.param1]</title>
+        <title>[getUrl]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://img05.deviantart.net/b9ac/i/2010/333/9/3/vlc_movie_icon_by_captainego-d33vh70.png</thumbnail>
 ]]></listrepeat>
