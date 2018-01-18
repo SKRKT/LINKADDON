@@ -1,496 +1,643 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-<item>
-	<title>[COLOR lime]•   Blindspot[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime]•   Better Call Saul[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime]•   Breaking Bad[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime]•   Dexter[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime]•   Dr. House[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime]•   Game of Thrones[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime]•   Sabrina la bruja adolecente[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime]•   The Big Bang Theory[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<fanart>https://images8.alphacoders.com/431/431311.jpg</fanart>
-	<thumbnail>http://www.harrisonline.com/GRAPHICS/bigbangtheory.jpg</thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime]•   The Walking Dead[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime]•   Vikingos[/COLOR]</title>
-	<link>$doregex[makelist2]</link>
-	<regex>
-	<name>makelist2</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist2.param1][/COLOR]</title>
-				<link>$doregex[makelist]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-	]]></listrepeat>
-	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-				<title>[COLOR lime][makelist.param3][/COLOR]</title>
-				<link>$doregex[getUrl]</link>
-				<thumbnail>[makelist2.param3]</thumbnail>
-				<fanart>[makelist2.param5]</fanart>
-				]]></listrepeat>
-	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-	<page>[makelist2.param2]/list,1,15</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>getUrl</name>
-	<expres>DownloadUrl":"([^"]+)<expres>
-	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-	<referer>[makelist2.param4]/[makelist.param2]</referer>
-	<connection>keep-alive</connection>
-	<accept>*/*</accept>
-	<X-Req>XMLHttpRequest</X-Req>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>tok</name>
-	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-	<page>[makelist2.param4]/[makelist.param2]</page>
-	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-	<connection>keep-alive</connection>
-	<cookieJar></cookieJar>
-	</regex>
-	<thumbnail></thumbnail>
-</item>
+<item>		
+	<title>[COLOR lime]•   Better Call Saul[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>http://www.lospochocleros.com/wp-content/uploads/2016/10/better-call-saul-walter-gus-y-saul.jpg</fanart>	
+	<thumbnail>http://seriesonday.com/wp-content/uploads/2015/02/iuozOTGHCUcHm.jpg</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   Blindspot[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>https://pogd.es/assets/bg/Blindspot.jpg</fanart>	
+	<thumbnail>https://2.bp.blogspot.com/-bzvdKxAeg4M/V0WSryiEkbI/AAAAAAAAHNw/mYNBfCUO2z06rEzmxFOco0mmxb0xc3dbQCLcB/s1600/blindspot.jpg</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   Bones[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>https://im.ziffdavisinternational.com/ign_es/screenshot/default/bones-keyart-s09-01-16x9-1_7ges.jpg</fanart>	
+	<thumbnail>http://www.seriespapaya.com/uploads/Bones78.jpg</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   Breaking Bad[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>https://images7.alphacoders.com/617/617964.jpg</fanart>	
+	<thumbnail>http://www.icmedianet.org/wp/ndog/wp-content/uploads/2014/05/Breaking-bad.jpg</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   Dexter[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>http://ellibero.cl/wp-content/uploads/2015/10/Dexter.jpg</fanart>	
+	<thumbnail>https://i.pinimg.com/736x/68/4f/14/684f14d3f5c8142e240b918df4c41884--graphic-artwork-dexter-morgan.jpg</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   Dr. House[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>https://s-media-cache-ak0.pinimg.com/originals/79/9f/1f/799f1f5beb14e85f1d33e6c85c40288c.jpg</fanart>	
+	<thumbnail>http://images.doplim.com.ar/2011/11/28/64ed3ef4bbf8d1-serie-tv-doctor-house-6-temporadas-audio-latino-e-ingles-3886.jpg</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   Game Of Thrones[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>https://ugc.kn3.net/i/origin/http://elvortex.com/wp-content/uploads/2014/07/2994_game_of_thrones.jpg</fanart>	
+	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdD-FYSYtQ1x9kmvQeCxj9CEWuQCrk2tYjOUYQaLN_la_ahSPfQ</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   Grey'S Anatomy[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>https://a248.e.akamai.net/ib.huluim.com/show_key_art/2252?size=1600x600&region=US</fanart>	
+	<thumbnail>https://vignette.wikia.nocookie.net/greysanatomy/images/e/e6/GAS10Poster.jpg/revision/latest/scale-to-width-down/250?cb=20141028131311</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   How I Met Your Mother[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>http://www.notishop.net/wp-content/uploads/2017/08/How-I-Met-Your-Mother.jpg</fanart>	
+	<thumbnail>https://ugc.kn3.net/i/origin/http://atlantablackstar.com/wp-content/uploads/2013/01/HIMYM.jpg</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   Sabrina La Bruja Adolecente[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>https://image.tmdb.org/t/p/w1000/tPmi5CBwzTXitikPSGe4x9NfJAO.jpg</fanart>	
+	<thumbnail>VACIO</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   Stranger Things[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>https://buscadoresdefantasmas.com/wp-content/uploads/2016/07/Stranger-things.jpg</fanart>	
+	<thumbnail>https://4.bp.blogspot.com/-39godasnAfc/V6708LtVPdI/AAAAAAAAQTc/_bP5cFlZITk88qnlp7VqGNBf8LzZBYpFQCLcB/s1600/stranger-things-poster.jpg</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   The Big Bang Theory[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/TBBT.xml</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>https://images8.alphacoders.com/431/431311.jpg</fanart>	
+	<thumbnail>http://www.harrisonline.com/GRAPHICS/bigbangtheory.jpg</thumbnail>	
+</item>		
+<item>		
+	<title>[COLOR lime]•   The Walking Dead[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>VACIO</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>makelist</name>	
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist.param3][/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+		<fanart>[makelist2.param5]</fanart>
+		]]></listrepeat>
+	<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>	
+	<page>[makelist2.param2]/list,1,15</page>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>getUrl</name>	
+	<expres>DownloadUrl":"([^"]+)<expres>	
+	<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>	
+	<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>	
+	<referer>[makelist2.param4]/[makelist.param2]</referer>	
+	<connection>keep-alive</connection>	
+	<accept>*/*</accept>	
+	<X-Req>XMLHttpRequest</X-Req>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<regex>	
+	<name>tok</name>	
+	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>	
+	<page>[makelist2.param4]/[makelist.param2]</page>	
+	<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>	
+	<connection>keep-alive</connection>	
+	<cookieJar></cookieJar>	
+	</regex>	
+	<fanart>VACIO</fanart>	
+	<thumbnail>VACIO</thumbnail>	
+</item>		
 
 <item>
 <title>[COLOR lime]•   Series Retro[/COLOR]</title>
