@@ -26,20 +26,13 @@
 </channel>
 
 <channel>
-<name>[COLOR lime][B]•   *Partidos en vivo* (Proximamente)[/B][/COLOR]</name>
+<name> </name>
 <link>http://ignora.me</link>
-<externallink>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Partidos.xml</externallink>
-<fanart>https://i.ytimg.com/vi/X1O3EntEi94/maxresdefault.jpg</fanart>
-<thumbnail>https://i.ytimg.com/vi/X1O3EntEi94/maxresdefault.jpg</thumbnail>
+<externallink>http://ignora.me</externallink>
+<fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/fanart.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Imagenes/icon.png</thumbnail>
 </channel>
 
-<channel>
-<name>[COLOR lime]•   Canales (TecnoTV)[/COLOR]</name>
-<link>http://ignora.me</link>
-<externallink>http://tecnotv.xyz/lista.m3u</externallink>
-<fanart>https://userscontent2.emaze.com/images/a29cd493-d5ad-4f01-99b0-d1ae6fb27dfe/f04589d6fc2a21ee5c22259ddb9354cc.jpg</fanart>
-<thumbnail>https://3.bp.blogspot.com/-XOIXujpPTN0/WgtQHrlBCII/AAAAAAAAAjw/Qbd2He1BW5oay7V1qtyNPg5HJiKokmiewCLcBGAs/s1600/wLiUaSS.png</thumbnail>
-</channel>
 
 <channel>
 <name>[COLOR lime]•   Películas[/COLOR]</name>
@@ -56,4 +49,22 @@
 <fanart>http://www.lahuelladigital.com/wp-content/uploads/2017/05/Portada.jpg</fanart>
 <thumbnail>https://4.bp.blogspot.com/-6loyXT3YElQ/V1lL370EdhI/AAAAAAAABQU/09zmvbXiQ08OuhsmpOtScrJvqlWYyEMQQCLcB/s640/series.png</thumbnail>
 </channel>
+
+<channel>
+<name>[COLOR lime]•   Canales (TecnoTV)[/COLOR]</name>
+<link>http://ignora.me</link>
+<externallink>http://tecnotv.xyz/lista.m3u</externallink>
+<fanart>https://userscontent2.emaze.com/images/a29cd493-d5ad-4f01-99b0-d1ae6fb27dfe/f04589d6fc2a21ee5c22259ddb9354cc.jpg</fanart>
+<thumbnail>https://3.bp.blogspot.com/-XOIXujpPTN0/WgtQHrlBCII/AAAAAAAAAjw/Qbd2He1BW5oay7V1qtyNPg5HJiKokmiewCLcBGAs/s1600/wLiUaSS.png</thumbnail>
+</channel>
+
+<channel>
+<name>[COLOR lime][B]•   *Partidos en vivo* (Proximamente)[/B][/COLOR]</name>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Partidos.xml</externallink>
+<fanart>https://i.ytimg.com/vi/X1O3EntEi94/maxresdefault.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/X1O3EntEi94/maxresdefault.jpg</thumbnail>
+<info>Partidos de Tigres y Rayados</info>
+</channel>
+
 </channels>
