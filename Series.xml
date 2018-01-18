@@ -390,7 +390,8 @@
 	<connection>keep-alive</connection>
 	<cookieJar></cookieJar>
 	</regex>
-	<thumbnail></thumbnail>
+	<fanart>https://images8.alphacoders.com/431/431311.jpg</fanart>
+	<thumbnail>http://www.harrisonline.com/GRAPHICS/bigbangtheory.jpg</thumbnail>
 </item>
 
 <item>
