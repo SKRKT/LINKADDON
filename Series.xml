@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<channels>
-
-<channel>		
+<item>		
 	<title>[COLOR lime]•   Sabrina La Bruja Adolecente[/COLOR]</title>	
 	<link>$doregex[makelist2]</link>	
 	<regex>	
@@ -19,7 +17,7 @@
 	</regex>
 	<fanart>https://image.tmdb.org/t/p/w1000/tPmi5CBwzTXitikPSGe4x9NfJAO.jpg</fanart>	
 	<thumbnail>VACIO</thumbnail>	
-</channel>	
+</item>		
 
 <item>		
 	<title>[COLOR lime]•   The Big Bang Theory[/COLOR]</title>	
@@ -73,18 +71,8 @@
 
 <item>
 <title>[COLOR lime]•   Blindspot[/COLOR]</title>
-<link>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/Serie-Blindspot.xml</link>
-<externallink>A</externallink>
-<fanart>https://i.ytimg.com/vi/biSRZM1NLDs/maxresdefault.jpg</fanart>
-<thumbnail>http://es.web.img3.acsta.net/pictures/15/08/18/14/31/344415.jpg</thumbnail>
-</item>
-
-<channel>
-<name>[COLOR lime]•   Blindspot[/COLOR]</name>
-<link>A</link>
+<link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/Serie-Blindspot.xml</externallink>
 <fanart>https://i.ytimg.com/vi/biSRZM1NLDs/maxresdefault.jpg</fanart>
 <thumbnail>http://es.web.img3.acsta.net/pictures/15/08/18/14/31/344415.jpg</thumbnail>
-</channel>
-
-</channels>
+</item>
