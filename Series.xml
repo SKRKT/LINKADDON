@@ -2,14 +2,6 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>		
-	<title>[COLOR lime]•   Blindspot[/COLOR]</title>	
-	<link>A</link>
-	<externallink>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/Serie-Blindspot.xml</externallink>
-	<fanart>http://stylishhdwallpapers.com/wp-content/uploads/2016/03/Jaimie-Alexander-Body-Tattoos-In-Tv-Series-Blindspot-HD-Wallpaper.jpg</fanart>	
-	<thumbnail>https://2.bp.blogspot.com/-bzvdKxAeg4M/V0WSryiEkbI/AAAAAAAAHNw/mYNBfCUO2z06rEzmxFOco0mmxb0xc3dbQCLcB/s1600/blindspot.jpg</thumbnail>	
-</item>
-
-<item>		
 	<title>[COLOR lime]•   Sabrina La Bruja Adolecente[/COLOR]</title>	
 	<link>$doregex[makelist2]</link>	
 	<regex>	
@@ -76,4 +68,12 @@
 	</regex>	
 	<fanart>https://images8.alphacoders.com/431/431311.jpg</fanart>	
 	<thumbnail>http://www.harrisonline.com/GRAPHICS/bigbangtheory.jpg</thumbnail>	
+</item>
+
+<item>		
+	<title>[COLOR lime]•   Blindspot[/COLOR]</title>	
+	<link>A</link>
+	<externallink>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/Serie-Blindspot.xml</externallink>
+	<fanart>http://stylishhdwallpapers.com/wp-content/uploads/2016/03/Jaimie-Alexander-Body-Tattoos-In-Tv-Series-Blindspot-HD-Wallpaper.jpg</fanart>	
+	<thumbnail>https://2.bp.blogspot.com/-bzvdKxAeg4M/V0WSryiEkbI/AAAAAAAAHNw/mYNBfCUO2z06rEzmxFOco0mmxb0xc3dbQCLcB/s1600/blindspot.jpg</thumbnail>	
 </item>
