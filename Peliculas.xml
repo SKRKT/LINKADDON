@@ -2,43 +2,6 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>[COLOR lime]•   Peliculas Recientes[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>http://img05.deviantart.net/b9ac/i/2010/333/9/3/vlc_movie_icon_by_captainego-d33vh70.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/SKRKT/estrenos-101031</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/SeriesHD/pelis-35575/list,1,20</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/fanart.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR lime]•   LINK ADDON[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -46,7 +9,8 @@
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://img05.deviantart.net/b9ac/i/2010/333/9/3/vlc_movie_icon_by_captainego-d33vh70.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/fanart.jpg</fanart>
+        <thumbnail>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/icon.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/SKRKT/hct-100865</page>
@@ -79,14 +43,6 @@
 <title>[COLOR lime]•   Cine Mexicano[/COLOR]</title>
 <link>A</link>
 <externallink>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Submenus/Subpeliculasmex.xml</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<item>
-
-<item>
-<title>[COLOR lime]•   Prueba[/COLOR]</title>
-<link>A</link>
-<externallink><urlsolve>[makelist2.param2]</urlsolve></externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://masdemx.com/wp-content/uploads/2016/07/cine-mexicano.jpg</fanart>
+<thumbnail>https://difusionculturaluninter.files.wordpress.com/2016/08/cinemexicano.jpg?w=700</thumbnail>
 <item>
