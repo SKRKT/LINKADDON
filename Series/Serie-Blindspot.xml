@@ -13,9 +13,9 @@
 		<thumbnail>[makelist2.param4]</thumbnail>
 		]]></listrepeat>
 	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; tmblr:"(.*?)"</expres>	
-	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/SLBA.xml</page>	
+	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/Blindspot/Blindspot%203.xml</page>	
 	<cookieJar></cookieJar>	
 	</regex>
-	<fanart>https://image.tmdb.org/t/p/w1000/tPmi5CBwzTXitikPSGe4x9NfJAO.jpg</fanart>	
+	<fanart>VACIO</fanart>	
 	<thumbnail>VACIO</thumbnail>	
 </item>	
