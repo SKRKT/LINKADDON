@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>		
+	<title>[COLOR lime]•   Temporada 3[/COLOR]</title>	
+	<link>$doregex[makelist2]</link>	
+	<regex>	
+	<name>makelist2</name>
+	<listrepeat><![CDATA[	
+		<title>[COLOR lime][makelist2.param1][/COLOR]</title>
+		<urlsolve>[makelist2.param2]</urlsolve>
+		<fanart>[makelist2.param3]</fanart>
+		<thumbnail>[makelist2.param4]</thumbnail>
+		]]></listrepeat>
+	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; tmblr:"(.*?)"</expres>	
+	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/SLBA.xml</page>	
+	<cookieJar></cookieJar>	
+	</regex>
+	<fanart>https://image.tmdb.org/t/p/w1000/tPmi5CBwzTXitikPSGe4x9NfJAO.jpg</fanart>	
+	<thumbnail>VACIO</thumbnail>	
+</item>	
