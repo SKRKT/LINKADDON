@@ -2,6 +2,14 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>		
+	<title> </title>	
+	<link>A</link>
+	<externallink>A</externallink>
+	<fanart>http://www.lahuelladigital.com/wp-content/uploads/2017/05/Portada.jpg</fanart>
+	<thumbnail>https://4.bp.blogspot.com/-6loyXT3YElQ/V1lL370EdhI/AAAAAAAABQU/09zmvbXiQ08OuhsmpOtScrJvqlWYyEMQQCLcB/s640/series.png</thumbnail>
+</item>		
+
+<item>		
 	<title>[COLOR lime]•   Blindspot[/COLOR]</title>	
 	<link>A</link>
 	<externallink>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/Serie-Blindspot.xml</externallink>
