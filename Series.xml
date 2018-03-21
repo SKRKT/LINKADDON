@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>		
@@ -62,7 +62,7 @@
 		<fanart>[makelist2.param5]</fanart>
 		]]></listrepeat>
 	<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"; tmblr:"(.*?)"</expres>	
-	<page>VACIO</page>	
+	<page>https://raw.githubusercontent.com/SKRKT/LINKADDON/master/Series/Blindspot.xml</page>	
 	<cookieJar></cookieJar>	
 	</regex>	
 	<regex>	
